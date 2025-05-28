@@ -22,7 +22,7 @@
 
 - 개인 프로젝트
   - Apple WWDC23 Swift Student Challenge 참가
-  - iPadOS 개발 (기여도 100%)
+  - iPadOS 개발
 - 수상 경력
   - 전 세계 350명의 Winner를 선발하는 WWDC2023 Swift Student Challenge에서 수상작으로 선정
 
